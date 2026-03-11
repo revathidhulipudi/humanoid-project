@@ -1,0 +1,30 @@
+//## HUMANOID ROBOT USING ESP32
+//## OVERVIEW
+    This project demonstrates a humanoid robot built using ESP32. 
+    The robot performs basic human-like movements using servo motors, 
+    detects obstacles using an ultrasonic sensor, and displays 
+    information on an OLED display.
+//## COMPONENTS WE HAVE USED
+     ESP32 DevKit V1
+     SG90 Servo Motors
+     HC-SR04 Ultrasonic Sensor
+     OLED Display (SSD1306/SH1106)
+     Jumper Wires
+     Power Supply
+//## LIBRARIES WE HAVE USED 
+    SP32 DevKit V1
+    SG90 Servo Motors
+    HC-SR04 Ultrasonic Sensor
+    OLED Display (SSD1306/SH1106)
+    Jumper Wires
+    Power Supply
+//## WHAT IT DOES
+    Human-like movement using servo motors
+    Obstacle detection using ultrasonic sensor
+    OLED display for system status
+    Wireless control using WiFi/Blynk
+//## WHERE IT ALL STARTED     
+    This project was created during a hackathon in our first year of engineering where 
+we built a humanoid robot from scratch. Initially, we had limited knowledge about robotics,
+but by exploring and learning during the event, we were able to successfully develop a working model.
+The experience helped us gain practical knowledge in programming, electronics, and robotics. We also gained hands on experience.
